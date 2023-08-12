@@ -1,4 +1,4 @@
-#!/bin/python
+#!/bin/env python
 
 print("Hello, World!")
 
